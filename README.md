@@ -3,6 +3,7 @@
 - 🌱 videos do carlinhos 
 - 💞️ a dalva bebe... 
 - 📫 ctt henrique.garda@gmail.com
+- estudo no [alura]
   
 
 
